@@ -1,4 +1,3 @@
-Hello // Andrew Ilyas, Hello, Bob, Joe // This is a pretty cool project about this thing called Artificial Intelligence // 3 // /
-YAPN // Andrew Ilyas, Hello, Bob, Joe // This is yet another project about nothing // 5 // /
-A project // Andrew Ilyas, Hello, Bob, Joe // This is a description of a project // 13 // /
-Another project // Andrew Ilyas, Hello, Bob, Joe // This is a description of another project // 14 // /
+eb845d6c0bc105f2d8aa73b35eb21b5e
+6ecdf21b921917e2f963554b177a0c82
+4b6eabcbb59fabc2e099ecdbac88e179
