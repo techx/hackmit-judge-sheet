@@ -44,7 +44,7 @@ for index, row in toptensubs.iterrows():
     out.close()
     theFile = theFile.replace("$$TITLE$$", row["Project Title"])
     theFile = theFile.replace("$$MEMBERS$$", row["List of team members"])
-    theFile = theFile.replace("$$DESCRIPTION$$", row["List of team members"])
+    theFile = theFile.replace("$$DESCRIPTION$$", row["Project Description"])
     theFile = theFile.replace("$$IMAGEURL$$", str(row["Table Number"]) + row["Project Title"] + ".jpg")
     f2 = open("newsheet.html", "a")
     f2.write(theFile)
